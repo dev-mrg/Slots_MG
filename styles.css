@@ -1,0 +1,33 @@
+h1 {
+    color: red;
+}
+
+body {
+    background-color: rgba(0,0,0,1);
+}
+
+p {
+    color: orange;
+}
+
+canvas{
+    position:absolute;
+    left:150px;
+    top:50px;
+    border-radius: 8px;
+    border:10px inset gray;
+    overflow:visible
+    
+}
+
+#dashboard{
+    position: absolute;
+    left:150px;
+    top:450px
+}
+
+button.bt{
+    width:100px;
+    height:50px;
+    border-radius:12px;
+}
